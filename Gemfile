@@ -1,7 +1,5 @@
 source 'http://rubygems.org'
 
-gem 'fog', :git => 'https://github.com/frapposelli/fog'
-
 gemspec
 
 group :development do
